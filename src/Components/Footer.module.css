@@ -1,0 +1,21 @@
+.design {
+  margin-left: 5px;
+  margin-top: 4px;
+  font-size: 8px;
+}
+
+.foot {
+  background-color: white;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.box {
+  display: flex;
+  float: right;
+}
+
+.all {
+  width: 100%;
+  bottom: 0;
+}

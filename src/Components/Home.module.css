@@ -1,0 +1,105 @@
+.div {
+  margin-top: 35px;
+  text-align: center;
+  color: #ddd;
+}
+
+.p1 {
+  font-size: 10px;
+  color: rgb(120, 71, 65);
+}
+
+.h2 {
+  font-size: 18px;
+  line-height: 7px;
+}
+
+.p2 {
+  line-height: 19px;
+  color: gray;
+  font-size: 12px;
+  max-width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.sun {
+  margin-top: -70px;
+  opacity: 0.6;
+}
+
+.box1 {
+  background-color: rgb(24, 27, 36);
+  text-align: center;
+  border: solid black 5px;
+  height: 300px;
+  max-width: 200px;
+  margin: 0 auto;
+  opacity: 50;
+  margin-top: -120px;
+}
+
+.libra {
+}
+
+.h3 {
+  color: #ccc;
+  font-size: 20px;
+}
+
+.line {
+  background: rgb(136, 143, 159);
+  padding: 0.6px;
+  max-width: 100px;
+  margin: 0 auto;
+  border-radius: 0.5rem;
+  margin-top: 6px;
+  margin-bottom: 15px;
+}
+
+.p3 {
+  color: #ddd;
+  margin: 1px;
+  font-size: 13px;
+}
+
+.card {
+  position: absolute;
+  opacity: 0.4;
+  margin-top: -90px;
+  right: 15px;
+}
+
+.box00 {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 35px;
+  text-align: center;
+}
+
+/* .box2 {
+  position: absolute;
+  right: 50%;
+}
+.box3 {
+  position: absolute;
+  left: 50%;
+} */
+
+.h4 {
+  font-size: 11px;
+  color: rgb(120, 71, 65);
+}
+
+.h5 {
+  font-size: 11px;
+  color: rgb(120, 71, 65);
+}
+
+.p4 {
+  color: #ccc;
+}
+
+.p5 {
+  color: #ccc;
+}

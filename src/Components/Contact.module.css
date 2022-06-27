@@ -1,0 +1,61 @@
+.line {
+  background: #ccc;
+  height: 2px;
+  width: 240px;
+  min-width: 80px;
+  margin: 0 auto;
+  /* margin-top: 90px; */
+  border-radius: 0.5rem;
+}
+
+.box00 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 40px;
+  margin-left: 150px;
+  color: white;
+  text-align: center;
+  height: 70px;
+}
+
+.box01 {
+  background-color: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 1rem;
+  margin-top: 5px;
+  /* display: inline-block; */
+  /* float: left; */
+  margin-left: 20%;
+}
+.box02 {
+  background-color: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 1rem;
+  margin-top: 5px;
+  padding: 1px;
+  /* display: inline-block; */
+}
+.box03 {
+  background-color: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 1rem;
+  margin-top: 5px;
+  /* margin-left: -25px; */
+
+  /* display: inline-block; */
+  /* float: right; */
+}
+
+.emblem {
+  margin-top: 5px;
+}
+
+.card02 {
+  margin-left: 33%;
+  margin-top: -33%;
+  position: absolute;
+  opacity: 0.4;
+}

@@ -1,0 +1,58 @@
+.header {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+  height: 30px;
+  /* z-index: 100; */
+}
+
+.logo {
+  margin-top: 3px;
+  margin-left: 3rem;
+}
+
+.nav {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.3fr 1fr;
+  float: right;
+}
+
+.box1 {
+  margin-top: 7px;
+  font-size: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.box2 {
+  margin-top: 7px;
+  font-size: 15px;
+  height: 17px;
+  margin-right: 13px;
+}
+.box3 {
+  height: 15px;
+  width: 15px;
+  margin-top: 8px;
+}
+.box4 {
+  height: 15px;
+  width: 15px;
+  margin-left: 15px;
+  margin-top: 8px;
+}
+
+.button:hover,
+.button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px white, 0 0 0 3px black;
+  /* background-color: #333;
+  color: white; */
+  border-radius: 0.1rem;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
